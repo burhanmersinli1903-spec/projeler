@@ -1,2 +1,2 @@
-for sayilar in range(20,5,-3):
+for sayilar in range(1,30,1):
     print(sayilar)
